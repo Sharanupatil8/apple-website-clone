@@ -41,6 +41,4 @@
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
 
-m ake the read me file raw content
